@@ -1,0 +1,189 @@
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.svg
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\bootstrap.js
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\bootstrap.min.js
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\App_Config\Include\DynamicDatasource.Pipeline.config
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.js
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.js
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\modernizr-2.6.2.js
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Layouts\MainLayout.cshtml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Banner.cshtml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Footer.cshtml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Header.cshtml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.eot
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.ttf
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.woff
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.map
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.intellisense.js
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\DynamicDatasource.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\DynamicDatasource.pdb
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Microsoft.Web.Infrastructure.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.Kernel.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.Mvc.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.Helpers.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.Mvc.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.Razor.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Deployment.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Razor.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Newtonsoft.Json.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Lucene.Net.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\ITHit.WebDAV.Server.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.Logging.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\HtmlAgilityPack.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Mvp.Xml.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\ComponentArt.Web.UI.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.Zip.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.NVelocity.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.Logging.Client.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\RadEditor.Net2.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Telerik.Web.UI.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Sitecore.Kernel.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.Helpers.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.Mvc.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.Razor.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Deployment.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Razor.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Newtonsoft.Json.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Lucene.Net.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\HtmlAgilityPack.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\bin\Telerik.Web.UI.xml
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.dll
+c:\users\duaa\documents\visual studio 2013\Projects\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.pdb
+C:\Users\duaa\Documents\Visual Studio 2013\Projects\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.csprojResolveAssemblyReference.cache
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.svg
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\bootstrap.js
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\bootstrap.min.js
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\App_Config\Include\DynamicDatasource.Pipeline.config
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.js
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.js
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\modernizr-2.6.2.js
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Layouts\MainLayout.cshtml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Banner.cshtml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Footer.cshtml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Header.cshtml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.eot
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.ttf
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.woff
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.map
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.intellisense.js
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\DynamicDatasource.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\DynamicDatasource.pdb
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.Kernel.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.Mvc.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.Helpers.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.Mvc.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.Razor.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Razor.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Newtonsoft.Json.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Lucene.Net.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\ITHit.WebDAV.Server.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.Logging.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\HtmlAgilityPack.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Mvp.Xml.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\ComponentArt.Web.UI.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.Zip.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.NVelocity.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.Logging.Client.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\RadEditor.Net2.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Telerik.Web.UI.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Sitecore.Kernel.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.Helpers.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.Mvc.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.Razor.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Razor.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Newtonsoft.Json.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Lucene.Net.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\HtmlAgilityPack.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\bin\Telerik.Web.UI.xml
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.csprojResolveAssemblyReference.cache
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.dll
+C:\Users\duaa\Desktop\Dynamic Datasource\Latest\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.pdb
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.csprojResolveAssemblyReference.cache
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\obj\Debug\DynamicDatasource.pdb
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.svg
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\bootstrap.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\bootstrap.min.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\App_Config\Include\DynamicDatasource.Pipeline.config
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\modernizr-2.6.2.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Layouts\MainLayout.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Banner.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Footer.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Header.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.eot
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.ttf
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.woff
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.map
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Scripts\jquery-1.10.2.intellisense.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\DynamicDatasource.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\DynamicDatasource.pdb
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Sitecore.Abstractions.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Newtonsoft.Json.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Lucene.Net.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\ITHit.WebDAV.Server.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Sitecore.Logging.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\HtmlAgilityPack.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Mvp.Xml.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\ComponentArt.Web.UI.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Sitecore.Zip.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Sitecore.NVelocity.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\RadEditor.Net2.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Telerik.Web.UI.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\System.Web.Razor.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Razor.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Sitecore.Kernel.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Newtonsoft.Json.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Lucene.Net.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\HtmlAgilityPack.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource\bin\Telerik.Web.UI.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.svg
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\bootstrap.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\bootstrap.min.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\App_Config\Include\DynamicDatasource.Pipeline.config
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\jquery-1.10.2.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\modernizr-2.6.2.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Views\Baseline\Layouts\MainLayout.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Banner.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Footer.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Views\Baseline\Renderings\Common\Header.cshtml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.eot
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.ttf
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\fonts\glyphicons-halflings-regular.woff
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\jquery-1.10.2.min.map
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Scripts\jquery-1.10.2.intellisense.js
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\DynamicDatasource.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\DynamicDatasource.pdb
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Newtonsoft.Json.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Lucene.Net.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\ITHit.WebDAV.Server.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Sitecore.Logging.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\HtmlAgilityPack.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Mvp.Xml.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\ComponentArt.Web.UI.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Sitecore.Zip.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Sitecore.NVelocity.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\RadEditor.Net2.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Telerik.Web.UI.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\System.Web.Razor.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\System.Web.WebPages.Razor.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\System.Web.WebPages.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Sitecore.Kernel.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Newtonsoft.Json.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Lucene.Net.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\HtmlAgilityPack.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\bin\Telerik.Web.UI.xml
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\obj\Debug\DynamicDatasource.csprojResolveAssemblyReference.cache
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\obj\Debug\DynamicDatasource.dll
+C:\Users\duaa\Desktop\ini\DynamicDatasource\DynamicDatasource.git\DynamicDatasource\obj\Debug\DynamicDatasource.pdb

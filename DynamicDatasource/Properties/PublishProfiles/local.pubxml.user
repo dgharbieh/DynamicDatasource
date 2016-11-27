@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Sitecor8initl\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/DynamicDatasource.Pipeline.config">
+      <publishTime>11/10/2016 15:30:20</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/DynamicDatasource.Pipeline.config">
+      <publishTime>11/10/2016 15:30:20</publishTime>
+    </File>
+    <File Include="bin/ComponentArt.Web.UI.dll">
+      <publishTime>12/12/2014 16:42:06</publishTime>
+    </File>
+    <File Include="bin/DynamicDatasource.dll">
+      <publishTime>11/27/2016 15:51:42</publishTime>
+    </File>
+    <File Include="bin/DynamicDatasource.pdb">
+      <publishTime>11/27/2016 15:51:42</publishTime>
+    </File>
+    <File Include="bin/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="bin/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="bin/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="bin/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>12/12/2014 16:45:44</publishTime>
+    </File>
+    <File Include="bin/ITHit.WebDAV.Server.dll">
+      <publishTime>12/12/2014 16:45:44</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>12/12/2014 16:45:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>11/16/2016 19:57:46</publishTime>
+    </File>
+    <File Include="bin/Mvp.Xml.dll">
+      <publishTime>12/12/2014 16:45:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/12/2014 16:45:56</publishTime>
+    </File>
+    <File Include="bin/RadEditor.Net2.dll">
+      <publishTime>12/12/2014 16:45:58</publishTime>
+    </File>
+    <File Include="bin/Scripts/bootstrap.js">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="bin/Scripts/bootstrap.min.js">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="bin/Scripts/jquery-1.10.2.intellisense.js">
+      <publishTime>09/04/2016 15:09:12</publishTime>
+    </File>
+    <File Include="bin/Scripts/jquery-1.10.2.js">
+      <publishTime>09/04/2016 15:09:00</publishTime>
+    </File>
+    <File Include="bin/Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/04/2016 15:09:00</publishTime>
+    </File>
+    <File Include="bin/Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/04/2016 15:09:00</publishTime>
+    </File>
+    <File Include="bin/Scripts/modernizr-2.6.2.js">
+      <publishTime>09/04/2016 15:09:14</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Abstractions.dll">
+      <publishTime>12/12/2014 16:45:58</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>12/12/2014 16:46:34</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.Client.dll">
+      <publishTime>10/03/2015 07:03:20</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.dll">
+      <publishTime>12/12/2014 16:46:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>12/12/2014 16:46:44</publishTime>
+    </File>
+    <File Include="bin/Sitecore.NVelocity.dll">
+      <publishTime>12/12/2014 16:46:46</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Zip.dll">
+      <publishTime>12/12/2014 16:47:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/16/2016 19:57:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/16/2016 19:57:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/12/2014 16:47:28</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>12/12/2014 16:47:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>12/12/2014 16:47:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>12/12/2014 16:47:30</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>12/12/2014 16:47:32</publishTime>
+    </File>
+    <File Include="bin/Views/Baseline/Layouts/MainLayout.cshtml">
+      <publishTime>11/16/2016 20:31:54</publishTime>
+    </File>
+    <File Include="bin/Views/Baseline/Renderings/Common/Banner.cshtml">
+      <publishTime>11/16/2016 20:33:45</publishTime>
+    </File>
+    <File Include="bin/Views/Baseline/Renderings/Common/Footer.cshtml">
+      <publishTime>09/04/2016 15:22:48</publishTime>
+    </File>
+    <File Include="bin/Views/Baseline/Renderings/Common/Header.cshtml">
+      <publishTime>09/04/2016 15:22:50</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/16/2016 19:57:51</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/04/2016 15:08:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/04/2016 15:09:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/04/2016 15:09:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/04/2016 15:09:00</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/04/2016 15:09:14</publishTime>
+    </File>
+    <File Include="Views/Baseline/Layouts/MainLayout.cshtml">
+      <publishTime>11/16/2016 20:31:54</publishTime>
+    </File>
+    <File Include="Views/Baseline/Layouts/MainLayout11.cshtml">
+      <publishTime>11/16/2016 19:57:45</publishTime>
+    </File>
+    <File Include="Views/Baseline/Renderings/Common/Banner.cshtml">
+      <publishTime>11/16/2016 20:33:45</publishTime>
+    </File>
+    <File Include="Views/Baseline/Renderings/Common/Footer.cshtml">
+      <publishTime>09/04/2016 15:22:48</publishTime>
+    </File>
+    <File Include="Views/Baseline/Renderings/Common/Header.cshtml">
+      <publishTime>09/04/2016 15:22:50</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>11/27/2016 15:58:35</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/04/2016 15:08:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
